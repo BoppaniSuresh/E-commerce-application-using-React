@@ -1,0 +1,343 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Airpods Wireless Bluetooth Headphones",
+      "image": "/images/airpods.png",
+      "description": "Bluetooth technology lets you connect it with compatible devices wirelessly High-quality AAC audio offers immersive listening experience Built-in microphone allows you to take calls while working'",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 3400,
+      "countInStock": 10,
+      "rating": 4.5,
+      "numReviews": 12
+    },
+    {
+      "id": 2,
+      "name": "iPhone 5 (White , memory 8GB)",
+      "image": "/images/iPhone 4.png",
+      "description": "12MP primary camera with 720p HD video recording, retina flash, ?/2.4 aperture, auto HDR for photos, backside illumination sensor, exposure control, improved local tone mapping, face detection, timer mode, burst mode and 1.2MP front facing camera",
+      "brand": "Apple",
+      "category": "'Electronics'",
+      "price": 16000,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 3,
+      "name": "Canon EOS 80D DSLR Camera",
+      "image": "/images/Canon EOS 80D DSLR Camera.png",
+      "description": "Characterized by versatile imaging specs, the Canon EOS 80D further clarifies itself using a pair of robust focusing systems and an intuitive design",
+      "brand": "Cannon",
+      "category": "'Electronics'",
+      "price": 130000,
+      "countInStock": 5,
+      "rating": 3,
+      "numReviews": 12
+    },
+    {
+      "id": 4,
+      "name": "Sony Playstation 4 Pro White Version",
+      "image": "/images/Sony Playstation 4 Pro White Version.png",
+      "description": "The ultimate home entertainment center starts with PlayStation. Whether you are into gaming, HD movies, television, music",
+      "brand": "Sony",
+      "category": "'Electronics'",
+      "price": 35000,
+      "countInStock": 11,
+      "rating": 5,
+      "numReviews": 12
+    },
+    {
+      "id": 5,
+      "name": "Logitech G-Series Gaming Mouse",
+      "image": "/images/Logitech G-Series Gaming Mouse.png",
+      "description": "Get a better handle on your games with this Logitech LIGHTSYNC gaming mouse. The six programmable buttons allow customization for a smooth playing experience",
+      "brand": "Logitech",
+      "category": "'Electronics'",
+      "price": 1500,
+      "countInStock": 7,
+      "rating": 3.5,
+      "numReviews": 10
+    },
+    {
+      "id": 6,
+      "name": "Amazon Echo Dot 3rd Generation",
+      "image": "/images/alexa.jpg",
+      "description": "Meet Echo Dot - Our most popular smart speaker with a fabric design. It is our most compact smart speaker that fits perfectly into small space",
+      "brand": "Amazon",
+      "category": "'Electronics'",
+      "price": 8000,
+      "countInStock": 0,
+      "rating": 4,
+      "numReviews": 12
+    },
+    {
+      "id": 7,
+      "name": "iPhone 14 Pro Max(deep purple,128GB)",
+      "image": "/images/Apple iPhone 14 Pro Max.png",
+      "description": "Introducing the iPhone 14 Pro. A transformative triple-camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 125599,
+      "countInStock": 227,
+      "rating": 4.5,
+      "numReviews": 88
+    },
+    {
+      "id": 8,
+      "name": "iPhone 6s(space grey,32GB)",
+      "image": "/images/iPhone6s.png",
+      "description": "Introducing the iPhone 6s. A transformative camera system that adds tons of capability without complexity. An unprecedented leap in battery life",
+      "brand": "Apple",
+      "category": "Electronics",
+      "price": 29999,
+      "countInStock": 57,
+      "rating": 4.2,
+      "numReviews": 58
+    },
+    {
+      "id": 9,
+      "name": "Pixel 6a",
+      "image": "/images/Pixel 6a.png",
+      "description": "Meet Pixel 6a, the more affordable Google phone that adapts to you.(7) Powered by Google Tensor, it’s super fast and secure. The battery lasts up to 72 hours with Extreme Battery Saver.(2) The Pixel Camera captures the moment just how you experienced it. And with Titan M2™ security, protection is built right in",
+      "brand": "Google",
+      "category": "Electronics",
+      "price": 33599,
+      "countInStock": 117,
+      "rating": 4.3,
+      "numReviews": 99
+    },
+    {
+      "id": 10,
+      "name": "Pixel 7 Pro",
+      "image": "/images/Pixel 7 Pro.png",
+      "description": "Google Pixel 7 Pro is the new addition in the Google smartphone portfolio that comes with premium features and high-end specifications. Moreover, the smartphone supports the 5G network, its dimensions measure 162.9 mm x 76.6 mm x 8.9 mm (height x width x thickness), and it weighs around 212 grams",
+      "brand": "Google",
+      "category": "Electronics",
+      "price": 55599,
+      "countInStock": 17,
+      "rating": 4.5,
+      "numReviews": 38
+    },
+    {
+      "id": 11,
+      "name": "Redmi note 10 Pro",
+      "image": "/images/Redmi note 10 Pro.png",
+      "description": "Redmi Note 10 Pro mobile was launched on 4th March 2021. The phone comes with a 6.67-inch touchscreen display. The display sports Gorilla Glass for protection. Redmi Note 10 Pro is powered by an octa-core Qualcomm Snapdragon 732G processor. It comes with 6GB,8GB of RAM. The Redmi Note 10 Pro runs Android 11 and is powered by a 5050mAh battery. The Redmi Note 10 Pro supports proprietary fast charging",
+      "brand": "Xiaomi",
+      "category": "Electronics",
+      "price": 18599,
+      "countInStock": 117,
+      "rating": 4.2,
+      "numReviews": 28
+    },
+    {
+      "id": 12,
+      "name": " Canon M50 Mark II",
+      "image": "/images/Canon M50 Mark II.png",
+      "description": "Catering to vloggers and content creators, the black Canon EOS M50 Mark II is a versatile multimedia camera with a well-rounded photo and video feature-set. Sporting improved focusing, recording, and sharing capabilities, the M50 Mark II still revolves around the proven 24.1MP APS-C CMOS sensor and DIGIC 8 image processor, which enable a quick 10 fps shooting rate, a native sensitivity range of ISO 100-25600, and UHD 4K video recording at 23.98 fps, along with Full HD 1080p60 and HD 720p120 for slow motion capture. Sensor-based Dual Pixel CMOS AF has been improved with faster speeds and refined Eye Detection AF performance, and supports both Eye Detection and Face Detection focusing modes when working with Movie Servo AF to help keep sharp focus on the subject matter. Additionally, Combination IS 5-axis image stabilization also helps to realize steady, shake-free recording by minimizing the appearance of camera shake.",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 55599,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 18
+    },
+    {
+      "id": 13,
+      "name": "canon-eos-6d",
+      "image": "/images/canon-eos-6d.png",
+      "description": " The EOS 6D is built around a new Canon CMOS sensor, which offers a pixel count of 20.2MP (compared to the Nikon D600 and Sony SLT-A99's 24MP, and the 5D Mark III's 22MP). In concert with the DIGIC 5+ processor it offers a standard ISO range of 100-25600, expandable down to 50 and up to 102,400. The AF system has 11 points, but only the central one is cross-type (sensitive to both vertical and horizontal detail). However, the 6D's trump card is the ability to focus in extremely low light levels; right down to a claimed -3 EV – a full stop dimmer than the 5D Mark III. This figure might not mean much to you, but for reference,-3 EV is roughly equivalent to the light cast by a full moon",
+      "brand": "Canon",
+      "category": "Electronics",
+      "price": 122599,
+      "countInStock": 57,
+      "rating": 3.9,
+      "numReviews": 58
+    },
+    {
+      "id": 14,
+      "name": "sony-dslr-a200",
+      "image": "/images/sony-dslr-a200.png",
+      "description": " 10 megapixel CCD captures enough detail for photo-quality 18 * 24-inch print include 18-70mm lens Super Steadyshot image stabilization; Bionz image processor 2.7-inch ClearPhoto LCD;Eye-Start autofocus system Powered by lithium-ion battery (supplied); stores images on CF I/II and Memory Stick Pro Duo cards",
+      "brand": "Sony",
+      "category": "Electronics",
+      "price": 111599,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 28
+    },
+    {
+      "id": 15,
+      "name": "Nikon Coolpix",
+      "image": "/images/Nikon Coolpix.png",
+      "description": "Connect the optional WU-1a Wireless Mobile Adapter and wirelessly transfer photos to your compatible smartphone, tablet or any Wi-Fi enabled device±. Use your compatible smartphone or tablet to instantly upload your shots to the web or email them to a friend. Or, remotely control the COOLPIX A—see what the camera sees from your smartphone or tablet and fire off shots!",
+      "brand": "Nikon",
+      "category": "Electronics",
+      "price": 7599,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 16,
+      "name": "Nikon D850",
+      "image": "/images/Nikon D850.png",
+      "description": "Nikon proudly introduces the next evolution in high resolution DSLRs, a camera that allows photographers to capture fast action in 45.7 megapixels of brilliant resolution. With remarkable advancements across the board—sensor design, autofocus, dynamic range, sensitivity, Speedlight control, battery life, shutter and mirror drive mechanisms, Silent Photography in Live-View mode, focus shift capability and more—this is quite possibly the most impressive, well-rounded DSLR yet",
+      "brand": "Nikon",
+      "category": "Electronics",
+      "price": 77599,
+      "countInStock": 7,
+      "rating": 4.6,
+      "numReviews": 8
+    },
+    {
+      "id": 17,
+      "name": "Adidas Unisex Bags",
+      "image": "/images/Adidas Unisex Bags.png",
+      "description": "Carrying your gear to the gym can be a workout all its own. Stuff your shoes and clothes in this adidas backpack, and find comfort on the go. Compression straps keep the load balanced, and multiple zip compartments help you to stay organised. There's even a laptop compartment in case you're jetting to work after your session",
+      "brand": "Adidas",
+      "category": "Bags",
+      "price": 1599,
+      "countInStock": 67,
+      "rating": 4.7,
+      "numReviews": 28
+    },
+    {
+      "id": 18,
+      "name": "Gear campus",
+      "image": "/images/Gear campus.png",
+      "description": "Marked as a champion. The iconic Gear campus Badge of Sport logo proudly identifies this backpack as purely Gear campus. Take all your day's essentials along in timeless athletic style. And total comfort, thanks to padded shoulder straps",
+      "brand": " Gear campus ",
+      "category": "Bags",
+      "price": 599,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 19,
+      "name": " Vans Backpack",
+      "image": "/images/Vans Backpack.png",
+      "description": "Make your everyday rides to the office stylish with our classic Vans Backpack. It is big enough to carry a laptop of 15 inches. The bag comes with a raincover, ensuring that the contents of the bag remain dry during heavy pours. You can also store your identity cards, pens and wallet inside the mini zipped compartments ",
+      "brand": "Vans",
+      "category": "Bags",
+      "price": 2599,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 20,
+      "name": " Wildcraft Laptop-Backpack ",
+      "image": "/images/Wildcraft Laptop-Backpack.png",
+      "description": "Padded Back system for better comfort Padded shoulder straps to carry it comfortably Reverse Coil YKK Zipper Double compartment bag for better organisation Flat front pocket for quick access Multi-level (L2) organiser that keeps everything clutter-free",
+      "brand": "Wildcraft",
+      "category": "Bags",
+      "price": 999,
+      "countInStock": 27,
+      "rating": 4.1,
+      "numReviews": 18
+    },
+    {
+      "id": 21,
+      "name": " HRX tshirt ",
+      "image": "/images/HRX tshirt.png",
+      "description": "Keep this hip this season with the HRX Men's Athleisure T-shirt. This versatile T-shirt can be styled any way you like for the ultimate gym-to-street look.",
+      "brand": "HRX",
+      "category": "tshirts",
+      "price": 499,
+      "countInStock": 7,
+      "rating": 4,
+      "numReviews": 8
+    },
+    {
+      "id": 22,
+      "name": " nike-original",
+      "image": "/images/nike-original.png",
+      "description": "The Nike Pro Dri-FIT Top helps keep you cool, dry and moving freely through your workout. Lightweight fabric with plenty of stretch is made from at least 50% recycled polyester fibres.",
+      "brand": "Nike",
+      "category": "tshirts",
+      "price": 1099,
+      "countInStock": 37,
+      "rating": 4.1,
+      "numReviews": 28
+    },
+    {
+      "id": 23,
+      "name": " Nike men's running shoes ",
+      "image": "/images/Nike men's running shoes.png",
+      "description": "Main Materials : Mesh upper / Rubber Outsole Product Color: Black and Grey Soft sockliner Plush lining Warranty: 6 months Warranty provided by Brand Owner / Manufacturer",
+      "brand": "Nike",
+      "category": "Shoes",
+      "price": 3599,
+      "countInStock": 17,
+      "rating": 4,
+      "numReviews": 18
+    },
+    {
+      "id": 24,
+      "name": " Puma Shoes ",
+      "image": "/images/Puma Shoes.png",
+      "description": " Indulge in the best of both worlds with our Modern Runner Sneakers. This style melds a carefree, easy-to-wear upper with serious performance in EVA tooling and contact EVA midsole to give you the responsive bounce you need with every stride. ",
+      "brand": "Puma",
+      "category": "Shoes",
+      "price": 2599,
+      "countInStock": 37,
+      "rating": 4.2,
+      "numReviews": 28
+    }
+  ],
+  "users": [
+    {
+      "name": "thapan",
+      "email": "thapan@gmail.com",
+      "password": "12345",
+      "Token": "hi",
+      "id": 2
+    },
+    {
+      "name": "maneesh",
+      "email": "konda@gmail.com",
+      "password": "123456",
+      "Token": "",
+      "id": 3
+    },
+    {
+      "name": "santosh",
+      "email": "santosh@gmail.com",
+      "password": "1234",
+      "Token": "hi",
+      "id": 4
+    },
+    {
+      "name": "charan",
+      "email": "charan@gmail.com",
+      "password": "123",
+      "Token": "",
+      "id": 5
+    },
+    {
+      "name": "11111111111111111",
+      "email": "parth@gmail.com",
+      "password": "123",
+      "Token": "",
+      "id": 6
+    },
+    {
+      "name": "nachiketa",
+      "email": "nachi@gmail.com",
+      "password": "123",
+      "Token": "hi",
+      "id": 7
+    },
+    {
+      "name": "suresh",
+      "email": "suresh1@gmail.com",
+      "password": "123",
+      "Token": "Admin1001",
+      "id": 8
+    }
+  ]
+}
